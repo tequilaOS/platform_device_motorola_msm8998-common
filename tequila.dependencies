@@ -1,0 +1,19 @@
+[
+  {
+    "repository": "platform_kernel_motorola_msm8998",
+    "target_path": "kernel/motorola/msm8998"
+  },
+  {
+    "repository": "platform_external_bson",
+    "target_path": "external/bson"
+  },
+  {
+    "repository": "platform_hardware_motorola",
+    "target_path": "hardware/motorola"
+  },
+  {
+    "repository": "platform_vendor_motorola_msm8998-common",
+    "target_path": "vendor/xiaomi/msm8998-common",
+    "remote": "tequila-gitlab"
+  }
+]
